@@ -21,6 +21,7 @@
 - [zmanim/zman](https://github.com/zmanim/zman) - A Jewish date converter and helper
 - [yparitcher/libzmanim](https://github.com/yparitcher/libzmanim) - C library for zmanim & hebrew calendar
 - [yparitcher/kindle-zmanim](https://github.com/yparitcher/kindle-zmanim) - Zmanim screensaver for kindle KNT4 & KT4 & PW4
+- [py-libhdate/py-libhdate](https://github.com/py-libhdate/py-libhdate) - Python hebrew date converte and Zmanim library
 
 ### Others
 - [shayaulman/kosher-code](https://github.com/shayaulman/kosher-code) - Dev resources approved by NetFree!
