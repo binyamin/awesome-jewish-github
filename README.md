@@ -5,3 +5,4 @@
 - [b3u/Shabbot](https://github.com/b3u/shabbot) - GitHub bot which responds to pings on shabbos.
 - [shayaulman/kosher-code](https://github.com/shayaulman/kosher-code) - Dev resources approved by NetFree!
 - [schorrm/ypp](https://github.com/schorrm/ypp) - The oylem's first programming shprach
+- [yehudah/close-for-shabbat](https://github.com/yehudah/close-for-shabbat) - A WordPress plugin to close your website for Shabbat
