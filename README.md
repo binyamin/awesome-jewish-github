@@ -4,10 +4,12 @@
 ### Sefarim
 - [Sefaria/Sefaria-Project](https://github.com/sefaria/sefaria-project) - "A Living Library of Jewish Texts"
 - [MosheWagner/Orayta-QT](https://github.com/MosheWagner/Orayta-QT) - Orayta Jewish books program
+- [Yiddishe-Kop/pninim](https://github.com/Yiddishe-Kop/pninim) - Spread your *Chiddushe Torah* to the world 
 
 ### Shabbat
 - [b3u/Shabbot](https://github.com/b3u/shabbot) - GitHub bot which responds to pings on shabbos.
 - [yehudah/close-for-shabbat](https://github.com/yehudah/close-for-shabbat) - A WordPress plugin to close your website for Shabbat
+- [naftulish/shabbat-close-WP](https://github.com/naftulish/shabbat-close-WP) - WP plugin to close wp sites on shabbat
 
 
 ### Zmanim
@@ -27,6 +29,7 @@
 - [schorrm/ypp](https://github.com/schorrm/ypp) - The oylem's first programming shprach
 - [igdj/jewish-history-online](https://github.com/igdj/jewish-history-online) - Code for [http://jewish-history-online.net/](http://jewish-history-online.net/)
 - [shteeble/git-shabis](https://github.com/shteeble/git-shabis) - git far yiddin
-- [yaircohendev/Tahara](https://github.com/yaircohendev/Tahara) - An app that calculates Jewish Tahara dates 
+- [yaircohendev/Tahara](https://github.com/yaircohendev/Tahara) - An app that calculates Jewish Tahara dates
+- [Yiddishe-Kop/Shas-Vilna](https://github.com/Yiddishe-Kop/Shas-Vilna) - An attempt to recreate the Vilna edition of the Talmud Bavli on the web
 
 
