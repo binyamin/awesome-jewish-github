@@ -19,11 +19,14 @@
 - [hebcal/hebcal](https://github.com/hebcal/hebcal) - A perpetual Jewish Calendar
 - [pinnymz/python-zmanim](https://github.com/pinnymz/python-zmanim) - Python zmanim library
 - [zmanim/zman](https://github.com/zmanim/zman) - A Jewish date converter and helper
+- [yparitcher/libzmanim](https://github.com/yparitcher/libzmanim) - C library for zmanim & hebrew calendar
+- [yparitcher/kindle-zmanim](https://github.com/yparitcher/kindle-zmanim) - Zmanim screensaver for kindle KNT4 & KT4 & PW4
 
 ### Others
 - [shayaulman/kosher-code](https://github.com/shayaulman/kosher-code) - Dev resources approved by NetFree!
 - [schorrm/ypp](https://github.com/schorrm/ypp) - The oylem's first programming shprach
 - [igdj/jewish-history-online](https://github.com/igdj/jewish-history-online) - Code for [http://jewish-history-online.net/](http://jewish-history-online.net/)
 - [shteeble/git-shabis](https://github.com/shteeble/git-shabis) - git far yiddin
+- [yaircohendev/Tahara](https://github.com/yaircohendev/Tahara) - An app that calculates Jewish Tahara dates 
 
 
