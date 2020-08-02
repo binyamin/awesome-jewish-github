@@ -5,6 +5,7 @@
 - [Sefaria/Sefaria-Project](https://github.com/sefaria/sefaria-project) - "A Living Library of Jewish Texts"
 - [MosheWagner/Orayta-QT](https://github.com/MosheWagner/Orayta-QT) - Orayta Jewish books program
 - [Yiddishe-Kop/pninim](https://github.com/Yiddishe-Kop/pninim) - Spread your *Chiddushe Torah* to the world 
+- [akivajgordon/tikkun.io](https://github.com/akivajgordon/tikkun.io) - The online tikkun you always wanted, but never had
 
 ### Shabbat
 - [b3u/Shabbot](https://github.com/b3u/shabbot) - GitHub bot which responds to pings on shabbos.
