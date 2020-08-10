@@ -34,7 +34,7 @@
 - [shteeble/git-shabis](https://github.com/shteeble/git-shabis) - git far yiddin
 - [yaircohendev/Tahara](https://github.com/yaircohendev/Tahara) - An app that calculates Jewish Tahara dates
 - [Yiddishe-Kop/Shas-Vilna](https://github.com/Yiddishe-Kop/Shas-Vilna) - An attempt to recreate the Vilna edition of the Talmud Bavli on the web
-- [HyShai/HyShai/Nearest-Hatzolah-Finder](https://github.com/HyShai/Nearest-Hatzolah-Finder) - Finds the nearest Hatzolah for a specific lat/long
+- [HyShai/Nearest-Hatzolah-Finder](https://github.com/HyShai/Nearest-Hatzolah-Finder) - Finds the nearest Hatzolah for a specific lat/long
 - [ShomreiTorah](https://github.com/ShomreiTorah) - GitHub organization for the ShomreiTorah shul system
 
 
