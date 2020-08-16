@@ -9,7 +9,7 @@
 - [OpenSiddur/OpenSiddur](https://github.com/opensiddur/opensiddur) - A free tool for making custom siddurim, haggadot, and more.
 
 ### Shabbat
-- [b3u/Shabbot](https://github.com/b3u/shabbot) - GitHub bot which responds to pings on shabbos.
+- [binyamin/Shabbot](https://github.com/binyamin/shabbot) - GitHub bot which responds to pings on shabbos.
 - [yehudah/close-for-shabbat](https://github.com/yehudah/close-for-shabbat) - A WordPress plugin to close your website for Shabbat
 - [naftulish/shabbat-close-WP](https://github.com/naftulish/shabbat-close-WP) - WP plugin to close wp sites on shabbat
 
