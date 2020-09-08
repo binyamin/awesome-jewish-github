@@ -7,6 +7,7 @@
 - [Yiddishe-Kop/pninim](https://github.com/Yiddishe-Kop/pninim) - Spread your *Chiddushe Torah* to the world 
 - [akivajgordon/tikkun.io](https://github.com/akivajgordon/tikkun.io) - The online tikkun you always wanted, but never had
 - [OpenSiddur/OpenSiddur](https://github.com/opensiddur/opensiddur) - A free tool for making custom siddurim, haggadot, and more.
+- [Yiddishe-Kop/Shas-Vilna](https://github.com/Yiddishe-Kop/Shas-Vilna) - An attempt to recreate the Vilna edition of the Talmud Bavli on the web
 
 ### Shabbat
 - [binyamin/Shabbot](https://github.com/binyamin/shabbot) - GitHub bot which responds to pings on shabbos.
@@ -33,7 +34,6 @@
 - [igdj/jewish-history-online](https://github.com/igdj/jewish-history-online) - Code for [http://jewish-history-online.net/](http://jewish-history-online.net/)
 - [shteeble/git-shabis](https://github.com/shteeble/git-shabis) - git far yiddin
 - [yaircohendev/Tahara](https://github.com/yaircohendev/Tahara) - An app that calculates Jewish Tahara dates
-- [Yiddishe-Kop/Shas-Vilna](https://github.com/Yiddishe-Kop/Shas-Vilna) - An attempt to recreate the Vilna edition of the Talmud Bavli on the web
 - [HyShai/Nearest-Hatzolah-Finder](https://github.com/HyShai/Nearest-Hatzolah-Finder) - Finds the nearest Hatzolah for a specific lat/long
 - [ShomreiTorah](https://github.com/ShomreiTorah) - GitHub organization for the ShomreiTorah shul system
 
