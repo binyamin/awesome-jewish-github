@@ -37,6 +37,6 @@
 - [yaircohendev/Tahara](https://github.com/yaircohendev/Tahara) - An app that calculates Jewish Tahara dates
 - [HyShai/Nearest-Hatzolah-Finder](https://github.com/HyShai/Nearest-Hatzolah-Finder) - Finds the nearest Hatzolah for a specific lat/long
 - [ShomreiTorah](https://github.com/ShomreiTorah) - GitHub organization for the ShomreiTorah shul system
-- [Noleli/trop-analysis](https://github.com/Noleli/trop-analysis) - [Quantified Cantillation](https://quantifiedcantillation.nl/) shows transition probabilities between *trop*/*ta’amim*. A [blog post](https://noahliebman.net/2015/04/quantified-cantillation/) has stats.
+- [Noleli/trop-analysis](https://github.com/Noleli/trop-analysis) - [Quantified Cantillation](https://quantifiedcantillation.nl/) shows transition probabilities between *trop*/*ta’amim*
 
 
