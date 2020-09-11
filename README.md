@@ -27,6 +27,7 @@
 - [yparitcher/libzmanim](https://github.com/yparitcher/libzmanim) - C library for zmanim & hebrew calendar
 - [yparitcher/kindle-zmanim](https://github.com/yparitcher/kindle-zmanim) - Zmanim screensaver for kindle KNT4 & KT4 & PW4
 - [py-libhdate/py-libhdate](https://github.com/py-libhdate/py-libhdate) - Python hebrew date converte and Zmanim library
+- [Noleli/isyontefearlythisyear](https://github.com/Noleli/isyontefearlythisyear) - Code for [Is yontef/yom tov early this year dot com](https://isyontefearlythisyear.com/), a site that shows whether the holidays are early or late
 
 ### Others
 - [shayaulman/kosher-code](https://github.com/shayaulman/kosher-code) - Dev resources approved by NetFree!
@@ -36,5 +37,6 @@
 - [yaircohendev/Tahara](https://github.com/yaircohendev/Tahara) - An app that calculates Jewish Tahara dates
 - [HyShai/Nearest-Hatzolah-Finder](https://github.com/HyShai/Nearest-Hatzolah-Finder) - Finds the nearest Hatzolah for a specific lat/long
 - [ShomreiTorah](https://github.com/ShomreiTorah) - GitHub organization for the ShomreiTorah shul system
+- [Noleli/trop-analysis](https://github.com/Noleli/trop-analysis) - [Quantified Cantillation](https://quantifiedcantillation.nl/) shows transition probabilities between *trop*/*ta’amim*
 
 
