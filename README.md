@@ -38,5 +38,4 @@
 - [HyShai/Nearest-Hatzolah-Finder](https://github.com/HyShai/Nearest-Hatzolah-Finder) - Finds the nearest Hatzolah for a specific lat/long
 - [ShomreiTorah](https://github.com/ShomreiTorah) - GitHub organization for the ShomreiTorah shul system
 - [Noleli/trop-analysis](https://github.com/Noleli/trop-analysis) - [Quantified Cantillation](https://quantifiedcantillation.nl/) shows transition probabilities between *trop*/*ta’amim*
-
-
+- [TroubleMacher/At-Bash](https://github.com/TroubleMacher/at-bash) - Decode AtBash cipher
