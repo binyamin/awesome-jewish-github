@@ -28,6 +28,7 @@
 - [yparitcher/kindle-zmanim](https://github.com/yparitcher/kindle-zmanim) - Zmanim screensaver for kindle KNT4 & KT4 & PW4
 - [py-libhdate/py-libhdate](https://github.com/py-libhdate/py-libhdate) - Python hebrew date converte and Zmanim library
 - [Noleli/isyontefearlythisyear](https://github.com/Noleli/isyontefearlythisyear) - Code for [Is yontef/yom tov early this year dot com](https://isyontefearlythisyear.com/), a site that shows whether the holidays are early or late
+- [benyaming/zmanim_api](https://github.com/benyaming/zmanim_api) - Simple api for all features of hebrew calendar based on fastApi and KosherJava python port
 
 ### Others
 - [shayaulman/kosher-code](https://github.com/shayaulman/kosher-code) - Dev resources approved by NetFree!
@@ -39,3 +40,4 @@
 - [ShomreiTorah](https://github.com/ShomreiTorah) - GitHub organization for the ShomreiTorah shul system
 - [Noleli/trop-analysis](https://github.com/Noleli/trop-analysis) - [Quantified Cantillation](https://quantifiedcantillation.nl/) shows transition probabilities between *trop*/*ta’amim*
 - [TroubleMacher/At-Bash](https://github.com/TroubleMacher/at-bash) - Decode AtBash cipher
+- [Zmanim bot for Telegram](https://t.me/zmanim_bot) - all features of hebrew calendar in your Telegram. [Source code](https://github.com/benyaming/zmanim_bot)
