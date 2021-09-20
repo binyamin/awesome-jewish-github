@@ -1,6 +1,8 @@
 # YidHub
 > Jewish Projects on GitHub
 
+## Projects
+
 ### Sefarim
 - [Sefaria/Sefaria-Project](https://github.com/sefaria/sefaria-project) - "A Living Library of Jewish Texts"
 - [MosheWagner/Orayta-QT](https://github.com/MosheWagner/Orayta-QT) - Orayta Jewish books program
@@ -42,3 +44,6 @@
 - [Noleli/trop-analysis](https://github.com/Noleli/trop-analysis) - [Quantified Cantillation](https://quantifiedcantillation.nl/) shows transition probabilities between *trop*/*ta’amim*
 - [TroubleMacher/At-Bash](https://github.com/TroubleMacher/at-bash) - Decode AtBash cipher
 - [Zmanim bot for Telegram](https://t.me/zmanim_bot) - all features of hebrew calendar in your Telegram. [Source code](https://github.com/benyaming/zmanim_bot)
+
+## Other Lists
+- [bandleader/awesome-torah](https://github.com/bandleader/awesome-torah)
