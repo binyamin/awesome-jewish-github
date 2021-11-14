@@ -3,6 +3,11 @@
 
 ## Projects
 
+### Language 
+- [avi-perl/Hebrew](https://github.com/avi-perl/Hebrew) - A python package with methods to handle the complexities of Hebrew text.
+- [chaimleib/hebrew-special-numbers](https://github.com/chaimleib/hebrew-special-numbers) - YAML data for generating Hebrew numerals from 1-999,999
+- [OriHoch/python-hebrew-numbers](https://github.com/OriHoch/python-hebrew-numbers) - python library for conversion of hebrew numbers (Gematria) - (Python implementation of [hebrew-special-numbers](https://github.com/chaimleib/hebrew-special-numbers)
+
 ### Sefarim
 - [Sefaria/Sefaria-Project](https://github.com/sefaria/sefaria-project) - "A Living Library of Jewish Texts"
 - [MosheWagner/Orayta-QT](https://github.com/MosheWagner/Orayta-QT) - Orayta Jewish books program
