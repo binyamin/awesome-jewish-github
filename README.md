@@ -1,4 +1,4 @@
-# YidHub
+# Awesome Jewish GitHub
 > Jewish Projects on GitHub
 
 ## Projects
