@@ -37,6 +37,7 @@
 - [Noleli/isyontefearlythisyear](https://github.com/Noleli/isyontefearlythisyear) - Code for [Is yontef/yom tov early this year dot com](https://isyontefearlythisyear.com/), a site that shows whether the holidays are early or late
 - [benyaming/zmanim_api](https://github.com/benyaming/zmanim_api) - Simple api for all features of hebrew calendar based on fastApi and KosherJava python port
 - [Shmulik-Kravitz/react-jewish-datepicker](https://github.com/Shmulik-Kravitz/react-jewish-datepicker) - React jewish datepicker
+- [Elyahu41/RabbiOvadiahYosefZmanimApps](https://github.com/Elyahu41/RabbiOvadiahYosefZmanimApps) - Android/IOS/Web Zmanim applications according to Rabbi Ovadiah Yosef ZT"L
 
 ### Others
 - [shayaulman/kosher-code](https://github.com/shayaulman/kosher-code) - Dev resources approved by NetFree!
