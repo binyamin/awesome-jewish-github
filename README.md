@@ -15,6 +15,8 @@
 - [akivajgordon/tikkun.io](https://github.com/akivajgordon/tikkun.io) - The online tikkun you always wanted, but never had
 - [OpenSiddur/OpenSiddur](https://github.com/opensiddur/opensiddur) - A free tool for making custom siddurim, haggadot, and more.
 - [Yiddishe-Kop/Shas-Vilna](https://github.com/Yiddishe-Kop/Shas-Vilna) - An attempt to recreate the Vilna edition of the Talmud Bavli on the web
+- [meirlamdan/shnayim-mikra](https://github.com/meirlamdan/shnayim-mikra) - שניים מקרא ואחד תרגום - Responsive reading from any device
+- [david-lev/hebrewbooksbot](https://github.com/david-lev/hebrewbooksbot) - A bot that allows you to search and browse books from hebrewbooks.org
 
 ### Shabbat
 - [binyamin/Shabbot](https://github.com/binyamin/shabbot) - GitHub bot which responds to pings on shabbos.
@@ -38,6 +40,7 @@
 - [benyaming/zmanim_api](https://github.com/benyaming/zmanim_api) - Simple api for all features of hebrew calendar based on fastApi and KosherJava python port
 - [Shmulik-Kravitz/react-jewish-datepicker](https://github.com/Shmulik-Kravitz/react-jewish-datepicker) - React jewish datepicker
 - [Elyahu41/RabbiOvadiahYosefZmanimApps](https://github.com/Elyahu41/RabbiOvadiahYosefZmanimApps) - Android/IOS/Web Zmanim applications according to Rabbi Ovadiah Yosef ZT"L
+- [Pituchey-Hotam/Zmanim-Sheet](https://github.com/Pituchey-Hotam/Zmanim-Sheet) - Generates yearly sheets of sunrise and sunset times
 
 ### Others
 - [shayaulman/kosher-code](https://github.com/shayaulman/kosher-code) - Dev resources approved by NetFree!
@@ -50,6 +53,7 @@
 - [Noleli/trop-analysis](https://github.com/Noleli/trop-analysis) - [Quantified Cantillation](https://quantifiedcantillation.nl/) shows transition probabilities between *trop*/*ta’amim*
 - [TroubleMacher/At-Bash](https://github.com/TroubleMacher/at-bash) - Decode AtBash cipher
 - [Zmanim bot for Telegram](https://t.me/zmanim_bot) - all features of hebrew calendar in your Telegram. [Source code](https://github.com/benyaming/zmanim_bot)
+- [akivajgordon/no-geniza](https://github.com/akivajgordon/no-geniza) - Checks whether the content contains גניזה
 
 ## Other Lists
 - [bandleader/awesome-torah](https://github.com/bandleader/awesome-torah)
