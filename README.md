@@ -16,7 +16,6 @@
 - [OpenSiddur/OpenSiddur](https://github.com/opensiddur/opensiddur) - A free tool for making custom siddurim, haggadot, and more.
 - [Yiddishe-Kop/Shas-Vilna](https://github.com/Yiddishe-Kop/Shas-Vilna) - An attempt to recreate the Vilna edition of the Talmud Bavli on the web
 - [meirlamdan/shnayim-mikra](https://github.com/meirlamdan/shnayim-mikra) - שניים מקרא ואחד תרגום - Responsive reading from any device
-- [david-lev/hebrewbooksbot](https://github.com/david-lev/hebrewbooksbot) - A bot that allows you to search and browse books from hebrewbooks.org
 
 ### Shabbat
 - [binyamin/Shabbot](https://github.com/binyamin/shabbot) - GitHub bot which responds to pings on shabbos.
