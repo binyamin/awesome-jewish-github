@@ -22,6 +22,7 @@
 - [binyamin/Shabbot](https://github.com/binyamin/shabbot) - GitHub bot which responds to pings on shabbos.
 - [yehudah/close-for-shabbat](https://github.com/yehudah/close-for-shabbat) - A WordPress plugin to close your website for Shabbat
 - [naftulish/shabbat-close-WP](https://github.com/naftulish/shabbat-close-WP) - WP plugin to close wp sites on shabbat
+- [ichaiwizm/moedcal-widget](https://github.com/ichaiwizm/moedcal-widget) - Embeddable Shabbat times widget and free JSON/iCal API (candle lighting, Havdalah, zmanim, holidays) for synagogue and community sites. French, English, Hebrew.
 
 
 ### Zmanim
